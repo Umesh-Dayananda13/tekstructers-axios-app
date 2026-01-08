@@ -1,0 +1,17 @@
+# Node
+node_modules
+npm-debug.log
+
+# Env files
+.env
+
+# Build outputs
+dist
+build
+
+# Docker
+docker-data
+
+# OS
+.DS_Store
+Thumbs.db

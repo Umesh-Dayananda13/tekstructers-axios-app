@@ -15,6 +15,6 @@ services:
     ports:
       - "3000:80"
     environment:
-      - VITE_API_URL=http://backend:5000
+      - VITE_API_URL=https://tekstructers-axios-app.onrender.com
     depends_on:
       - backend
